@@ -151,3 +151,8 @@ a:hover, a:active {
 .u {
     text-decoration: underline;
 }
+
+ .bgimage {
+     background: url("background_img.png") ; 
+    opacity:0;
+    }
